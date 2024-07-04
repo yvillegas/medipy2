@@ -1,0 +1,5 @@
+config/google-credentials.json
+.env
+__pycache__/
+*.pyc
+venv/
